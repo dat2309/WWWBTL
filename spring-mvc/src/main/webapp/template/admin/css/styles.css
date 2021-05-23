@@ -149,7 +149,9 @@ sup {
   line-height: 0;
   vertical-align: baseline;
 }
-
+tr.alignCenter {
+    text-align: center;
+}
 sub {
   bottom: -0.25em;
 }
